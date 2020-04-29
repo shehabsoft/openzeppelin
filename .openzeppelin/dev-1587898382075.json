@@ -1,0 +1,21 @@
+{
+  "contracts": {},
+  "solidityLibs": {},
+  "proxies": {
+    "MyFirstProject/OwnedToken": [
+      {
+        "address": "0xB9bdBAEc07751F6d54d19A6B9995708873F3DE18",
+        "kind": "NonProxy",
+        "bytecodeHash": "7907dce9f326758ee0fb1cf2f57b13d4f43208078b2d1dd86c016da799e482be"
+      }
+    ],
+    "MyFirstProject/Auth": [
+      {
+        "address": "0x4339316e04CFfB5961D1c41fEF8E44bfA2A7fBd1",
+        "kind": "NonProxy",
+        "bytecodeHash": "7f89b2711946d626943f67d7018fd94c6a7a85bada5c095fdf89b2cfbb2e2e7d"
+      }
+    ]
+  },
+  "manifestVersion": "2.2"
+}
